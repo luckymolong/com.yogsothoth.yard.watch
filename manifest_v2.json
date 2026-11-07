@@ -11,10 +11,11 @@
       "media/preview-4.png",
       "media/preview-5.png",
       "media/preview-6.png",
-      "media/preview-7.png"
+      "media/preview-7.png",
+      "media/preview-9.png"
     ],
     "icon": "media/icon-500.png",
-    "cover": "media/cover-3x2.jpg",
+    "cover": "media/c31e6f50-742d-4632-bf28-1da4a9d32f79_compressed (1).png",
     "author": [
       {
         "name": "Lucky9077",
@@ -31,9 +32,9 @@
   ],
   "downloads": {
     "xmb10p": {
-      "version": "3.7.1",
-      "file_name": "downloads/com.yogsothoth.yard.watch.3.7.1.rpk",
-      "versionCode": 371
+      "version": "3.8.2",
+      "file_name": "downloads/com.yogsothoth.yard.watch.3.8.2.rpk",
+      "versionCode": 382
     }
   },
   "ext": {}
