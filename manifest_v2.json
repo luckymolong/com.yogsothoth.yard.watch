@@ -1,0 +1,40 @@
+{
+  "item": {
+    "id": "com.yogsothoth.yard.watch",
+    "restype": "quick_app",
+    "name": "尤格索托斯的庭院",
+    "description": "把《尤格索托斯的庭院》装进手环：16,424 句全剧情、42 帧原作 CG、经营还债、七种结局，完全离线。(暂时只支持小米手环10 Pro)",
+    "preview": [
+      "media/preview-1.png",
+      "media/preview-2.png",
+      "media/preview-3.png",
+      "media/preview-4.png",
+      "media/preview-5.png",
+      "media/preview-6.png",
+      "media/preview-7.png"
+    ],
+    "icon": "media/icon-500.png",
+    "cover": "media/cover-3x2.jpg",
+    "author": [
+      {
+        "name": "Lucky9077",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "个人网站",
+      "url": "https:www.Luckywszl.top",
+      "icon": "code"
+    }
+  ],
+  "downloads": {
+    "xmb10p": {
+      "version": "3.7.1",
+      "file_name": "downloads/com.yogsothoth.yard.watch.3.7.1.rpk",
+      "versionCode": 371
+    }
+  },
+  "ext": {}
+}
